@@ -30,5 +30,4 @@ This project simulates heat exchange and control dynamics in a simplified two-lo
 ## 📷 Example Output
 
 
-```markdown
 ![Example Output](Figure_1.png)
